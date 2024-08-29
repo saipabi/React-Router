@@ -1,0 +1,88 @@
+* {
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
+  background-color: rgb(207, 191, 200);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ background-color:rgb(70, 202, 55);
+} 
+h1{
+  font-weight: 800;
+  font-size: 55px;
+}
+.All{
+  font-weight: 300;
+  font-size: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding: 20px;
+  list-style-type: none;
+ 
+  
+
+}
+.all {
+  padding:25px;
+}
+.container{
+  
+  width:350px;
+  height:550px;
+  /* background-color: brown; */
+  /* background-image: url('cybersecurity/cyber1.webp' ); */
+  background-image: repeat;
+  border: 1px solid slategray;
+  margin-bottom: 30px;
+  
+  
+
+}
+.text-1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: 500;
+  font-size: 25px;
+
+
+}
+.first-image{
+  width:350px;
+  height:300px;
+}
+ 
+
+.head{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  /* align-items: center; */
+  justify-content: space-evenly;
+  font-weight: 300;
+  font-size: 35px;
+  list-style-type: none;
+}
+
+.h6{
+  font-weight:none;
+  /* text-shadow: 10px; */
+  margin-top: 0;
+}
+.span{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 0;
+}
+.cyber-box{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 50px;
+}
