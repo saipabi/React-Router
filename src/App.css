@@ -3,11 +3,12 @@
   /* margin: 0 auto; */
   background-color: rgb(207, 191, 200);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
- background-color:rgb(70, 202, 55);
+ background-color:rgb(46, 51, 45);
 } 
 h1{
   font-weight: 800;
   font-size: 55px;
+  color: aliceblue;
 }
 .All{
   font-weight: 300;
@@ -17,6 +18,7 @@ h1{
   flex-direction: column;
   padding: 20px;
   list-style-type: none;
+  
  
   
 
@@ -31,8 +33,9 @@ h1{
   /* background-color: brown; */
   /* background-image: url('cybersecurity/cyber1.webp' ); */
   background-image: repeat;
-  border: 1px solid slategray;
+  border: none;
   margin-bottom: 30px;
+  
   
   
 

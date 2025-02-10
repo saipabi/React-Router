@@ -10,7 +10,7 @@ const Navbar = () => {
         <li><Link to="All">All</Link></li>
             <li><Link to="Cyber"> Cyber Security</Link></li>
             
-            <li><Link to="FullStackDevelopment">Full Stack Development</Link></li>
+            {/* <li><Link to="FullStackDevelopment">Full Stack Development</Link></li> */}
             <li><Link to="Datascience">Data Science</Link></li>
             <li><Link to="Carrier">Carrier</Link></li>
             {/* <li> <Link to="user/1">User1</Link></li> */}
